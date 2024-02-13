@@ -1,0 +1,1 @@
+This is the directory of project 3 about Shell, I/O Redirections and filters
