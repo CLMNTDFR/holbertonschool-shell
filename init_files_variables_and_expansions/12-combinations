@@ -1,0 +1,2 @@
+#!/bin/bash
+printf "%s\n" {aa..zz} | grep -v "oo" | sort
